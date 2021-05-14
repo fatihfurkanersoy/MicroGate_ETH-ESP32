@@ -10,6 +10,10 @@ Kartın çizimi henüz ilk defa altium kullanan ve ilk defa proje geliştiren Fa
 Bu doğrultuda pcb tasarımında hatalar olması çok doğaldır.
 Kartın kodu ve revize halleri şirket gizliliği dolayısıyla paylaşılmamaktadır.
 
+
+[![](https://github.com/fatihfurkanersoy/MicroGate_ETH-ESP32/blob/main/Photo/PCB-ON.PNG)](https://github.com/fatihfurkanersoy/MicroGate_ETH-ESP32/tree/main/MicroGate-Altium "PCB")
+
+
 ## Projenin amacı
 Bu kart hem WiFi hem de Ethernet ile internete çıkabilmektedir. Üstünde bulunan SHT20 ve OLED ekran ile sıcaklık bilgilerini ekrana yansıtabilmektedir.
 Aynı zamanda nihai kodu ile MQTT 'ye bu verileri gönderebilmektedir.

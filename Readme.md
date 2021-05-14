@@ -14,9 +14,16 @@ Kartın kodu ve revize halleri şirket gizliliği dolayısıyla paylaşılmamakt
 [![](https://github.com/fatihfurkanersoy/MicroGate_ETH-ESP32/blob/main/Photo/PCB-ON.PNG)](https://github.com/fatihfurkanersoy/MicroGate_ETH-ESP32/tree/main/MicroGate-Altium "PCB")
 
 
+[![](https://github.com/fatihfurkanersoy/MicroGate_ETH-ESP32/blob/main/Photo/PCB-ARKA.PNG)](https://github.com/fatihfurkanersoy/MicroGate_ETH-ESP32/tree/main/MicroGate-Altium "PCB")
+
+
 ## Projenin amacı
 Bu kart hem WiFi hem de Ethernet ile internete çıkabilmektedir. Üstünde bulunan SHT20 ve OLED ekran ile sıcaklık bilgilerini ekrana yansıtabilmektedir.
 Aynı zamanda nihai kodu ile MQTT 'ye bu verileri gönderebilmektedir.
+
+
+[![](https://github.com/fatihfurkanersoy/MicroGate_ETH-ESP32/blob/main/Photo/SCHEMATIC.PNG)](https://github.com/fatihfurkanersoy/MicroGate_ETH-ESP32/tree/main/MicroGate-Altium "PCB")
+
 
 #### Kartın Kodlanması
 ESP32 ile Arduino kullanılarak geliştirilmiş basit bir kod ile çalıştırılabilir.

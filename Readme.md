@@ -1,4 +1,5 @@
 # MicroGate 
+
 ### MicroGate projesi Microzerr firması kapsamında geliştirilmiş bir WiFi-ETH kartıdır.
 Kartta olan bazı hatalar sebebiyle proje hayata geçmemiş ve rafa kaldırılmıştır.
 Kart bu haliyle çalışmamaktadır. 

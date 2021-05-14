@@ -31,4 +31,9 @@ Kart üzerinde programalama için pinler veirlmiştir.
 Aynı zamanda Reset ve EN butonları yer almaktadır.
 
 
+[![](https://github.com/fatihfurkanersoy/MicroGate_ETH-ESP32/blob/main/Photo/PCB-URETILMIS.jpeg)](https://github.com/fatihfurkanersoy/MicroGate_ETH-ESP32/tree/main/MicroGate-Altium "PCB")
+
+
+
+
 

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=IO12 / TOUCH_3 Pin=Touch1-1
+Removed Member From Class: ClassName=microGate Member=Touch3
+Change Component Designator: OldDesignator=Touch3 NewDesignator=Touch1
+Added Room: Name=microGate

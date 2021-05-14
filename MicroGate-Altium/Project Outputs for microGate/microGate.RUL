@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\MicrozerrHard2\Desktop\Microzerr Fatih\ESP32 Altium_projeler\microgate__2\microGate.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=8.66
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=6.89
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

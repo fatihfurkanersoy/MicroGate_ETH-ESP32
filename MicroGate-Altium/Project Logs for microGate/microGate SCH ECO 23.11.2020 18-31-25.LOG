@@ -1,0 +1,92 @@
+Remove Pin=R5-1 From Net=RXD0
+Remove Pin=R6-1 From Net=RXD1
+Remove Pin=R15-1 From Net=LED1
+Remove Pin=R18-1 From Net=LED2
+Remove Pin=R20-2 From Net=EN
+Change Component Footprint: Designator=C1 Old Footprint=CAP 0805_2012 New Footprint=CAP 1206_3216 - 0.8MM
+Change Component Footprint: Designator=C2 Old Footprint=CAP 0805_2012 New Footprint=CAP 1206_3216 - 0.8MM
+Change Component Footprint: Designator=C3 Old Footprint=CAP 0805_2012 New Footprint=CAP 1206_3216 - 0.8MM
+Change Component Footprint: Designator=C4 Old Footprint=CAP 0805_2012 New Footprint=CAP 1206_3216 - 0.8MM
+Change Component Footprint: Designator=C5 Old Footprint=CAP 0805_2012 New Footprint=CAP 1206_3216 - 0.8MM
+Change Component Footprint: Designator=C6 Old Footprint=CAP 0805_2012 New Footprint=CAP 1206_3216 - 0.8MM
+Change Component Footprint: Designator=C9 Old Footprint=CAP 0805_2012 New Footprint=CAP 1206_3216 - 0.8MM
+Change Component Footprint: Designator=C7 Old Footprint=CAP 0805_2012 New Footprint=CAP 1206_3216 - 1.0MM
+Change Component Footprint: Designator=C8 Old Footprint=CAP 0805_2012 New Footprint=CAP 1206_3216 - 1.0MM
+Change Component Footprint: Designator=C10 Old Footprint=CAP 0805_2012 New Footprint=CAP 1206_3216 - 1.8MM
+Change Component Footprint: Designator=C11 Old Footprint=CAP 0805_2012 New Footprint=CAP 1206_3216 - 1.8MM
+Change Component Footprint: Designator=C12 Old Footprint=CAP 0805_2012 New Footprint=CAP 1206_3216 - 1.8MM
+Change Component Footprint: Designator=C13 Old Footprint=CAP 0805_2012 New Footprint=CAP 1206_3216 - 1.8MM
+Change Component Footprint: Designator=C14 Old Footprint=CAP 0805_2012 New Footprint=CAP 1206_3216 - 1.8MM
+Change Component Footprint: Designator=C15 Old Footprint=CAP 0805_2012 New Footprint=CAP 1206_3216 - 1.8MM
+Change Component Footprint: Designator=C16 Old Footprint=CAP 0805_2012 New Footprint=CAP 1206_3216 - 1.8MM
+Change Component Footprint: Designator=R1 Old Footprint=RES 0805_2012 New Footprint=RES 1206_3216
+Change Component Footprint: Designator=R2 Old Footprint=RES 0805_2012 New Footprint=RES 1206_3216
+Change Component Footprint: Designator=R3 Old Footprint=RES 0805_2012 New Footprint=RES 1206_3216
+Change Component Footprint: Designator=R4 Old Footprint=RES 0805_2012 New Footprint=RES 1206_3216
+Change Component Footprint: Designator=R5 Old Footprint=RES 0805_2012 New Footprint=RES 1206_3216
+Change Component Footprint: Designator=R6 Old Footprint=RES 0805_2012 New Footprint=RES 1206_3216
+Change Component Footprint: Designator=R7 Old Footprint=RES 0805_2012 New Footprint=RES 1206_3216
+Change Component Footprint: Designator=R8 Old Footprint=RES 0805_2012 New Footprint=RES 1206_3216
+Change Component Footprint: Designator=R9 Old Footprint=RES 0805_2012 New Footprint=RES 1206_3216
+Change Component Footprint: Designator=R10 Old Footprint=RES 0805_2012 New Footprint=RES 1206_3216
+Change Component Footprint: Designator=R11 Old Footprint=RES 0805_2012 New Footprint=RES 1206_3216
+Change Component Footprint: Designator=R12 Old Footprint=RES 0805_2012 New Footprint=RES 1206_3216
+Change Component Footprint: Designator=R13 Old Footprint=RES 0805_2012 New Footprint=RES 1206_3216
+Change Component Footprint: Designator=R14 Old Footprint=RES 0805_2012 New Footprint=RES 1206_3216
+Change Component Footprint: Designator=R15 Old Footprint=RES 0805_2012 New Footprint=RES 1206_3216
+Change Component Footprint: Designator=R16 Old Footprint=RES 0805_2012 New Footprint=RES 1206_3216
+Change Component Footprint: Designator=R17 Old Footprint=RES 0805_2012 New Footprint=RES 1206_3216
+Change Component Footprint: Designator=R18 Old Footprint=RES 0805_2012 New Footprint=RES 1206_3216
+Change Component Footprint: Designator=R19 Old Footprint=RES 0805_2012 New Footprint=RES 1206_3216
+Change Component Footprint: Designator=R20 Old Footprint=RES 0805_2012 New Footprint=RES 1206_3216
+Change Component Footprint: Designator=R21 Old Footprint=RES 0805_2012 New Footprint=RES 1206_3216
+Change Component Footprint: Designator=R22 Old Footprint=RES 0805_2012 New Footprint=RES 1206_3216
+Change Component Footprint: Designator=R23 Old Footprint=RES 0805_2012 New Footprint=RES 1206_3216
+Change Component Comment: Designator=C10 Old Comment==Value New Comment=0.1µF
+Change Component Comment: Designator=C13 Old Comment==Value New Comment=100nF
+Change Component Comment: Designator=C11 Old Comment==Value New Comment=10µF
+Change Component Comment: Designator=C12 Old Comment==Value New Comment=10µF
+Change Component Comment: Designator=C14 Old Comment==Value New Comment=0.22µF
+Change Component Comment: Designator=C15 Old Comment==Value New Comment=0.22µF
+Change Component Comment: Designator=C9 Old Comment==Value New Comment=104 (0.1µF)
+Change Component Comment: Designator=R10 Old Comment=33R New Comment=0 Ohms
+Change Component Comment: Designator=R15 Old Comment=33R New Comment=0 Ohms
+Change Component Comment: Designator=R16 Old Comment=33R New Comment=0R (%5)
+Change Component Comment: Designator=R22 Old Comment=33R New Comment=0R
+Change Component Comment: Designator=R17 Old Comment=33R New Comment=2K R
+Change Component Comment: Designator=R12 Old Comment=33R New Comment=4.7 kOhms
+Change Component Comment: Designator=R19 Old Comment=33R New Comment=10 kOhms
+Change Component Comment: Designator=R18 Old Comment=33R New Comment=10kR
+Change Component Comment: Designator=R13 Old Comment=33R New Comment=12.1k
+Change Component Comment: Designator=R11 Old Comment=33R New Comment=330 Ohms
+Change Component Comment: Designator=R14 Old Comment=33R New Comment=330 Ohms
+Change Component Comment: Designator=R1 Old Comment==Value New Comment=49.9 Ohms
+Change Component Comment: Designator=R2 Old Comment==Value New Comment=49.9 Ohms
+Change Component Comment: Designator=R3 Old Comment==Value New Comment=49.9 Ohms
+Change Component Comment: Designator=R4 Old Comment==Value New Comment=49.9 Ohms
+Change Component Comment: Designator=C16 Old Comment==Value New Comment=0.1µF
+Change Component Comment: Designator=R5 Old Comment==Value New Comment=100R
+Change Component Comment: Designator=R6 Old Comment==Value New Comment=100R
+Change Component Comment: Designator=R7 Old Comment==Value New Comment=100R
+Change Component Comment: Designator=R8 Old Comment==Value New Comment=100R
+Change Component Comment: Designator=C7 Old Comment==Value New Comment=30pF
+Change Component Comment: Designator=C1 Old Comment==Value New Comment=104 (0.1µF)
+Change Component Comment: Designator=C2 Old Comment==Value New Comment=104 (0.1µF)
+Change Component Comment: Designator=C6 Old Comment==Value New Comment=104 (0.1µF)
+Change Component Comment: Designator=C4 Old Comment==Value New Comment=105 (1µF)
+Add Pin To Net: Pin=R1-1 Old Net=NetR1_1 New Net=TD_P
+Add Pin To Net: Pin=R15-1 Old Net=LED1 New Net=GND
+Add Pin To Net: Pin=R18-1 Old Net=LED2 New Net=ESP_IO0
+Add Pin To Net: Pin=R20-2 Old Net=EN New Net=nINT/REFCLKO
+Change Pin Designator/Name:  Old Designator=C5-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=C5-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=C10-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=C10-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=R7-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=R7-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=R8-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=R8-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=R9-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=R9-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=Y2-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=Y2-2 Old Name=2 New Designator =1 New Name=1

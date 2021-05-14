@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=TD_P Pin=R1-1
+Added Member To Class: ClassName=microGate Member=Component R13 33R
+Added Member To Class: ClassName=microGate Member=Component R15 33R
+Added Member To Class: ClassName=microGate Member=Component R16 33R
+Added Member To Class: ClassName=microGate Member=Component R19 33R
+Added Member To Class: ClassName=microGate Member=Component R21 33R
+Added Room: Name=microGate

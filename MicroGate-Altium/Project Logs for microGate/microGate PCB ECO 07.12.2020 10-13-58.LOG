@@ -1,0 +1,13 @@
+Added Component: Designator=Touch1(Touch)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Touch2(Touch)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Touch3(Touch)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=IO12 / TOUCH_3 Pin=Touch1-1
+Added Pin To Net: NetName=IO15 / TOUCH_6 Pin=Touch2-1
+Added Pin To Net: NetName=IO13 / TOUCH_4 Pin=Touch3-1
+Added Member To Class: ClassName=microGate Member=Component Touch1 Touch 1
+Added Member To Class: ClassName=microGate Member=Component Touch2 Touch 1
+Added Member To Class: ClassName=microGate Member=Component Touch3 Touch 1
+Added Room: Name=microGate

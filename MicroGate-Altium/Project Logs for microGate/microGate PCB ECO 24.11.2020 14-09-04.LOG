@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=U1-8
+Added Net: Name=NetR5_2
+Added Room: Name=microGate

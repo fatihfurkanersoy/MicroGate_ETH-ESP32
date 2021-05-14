@@ -1,0 +1,28 @@
+Added Component: Designator=U1(LAN8720 FOOT)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=3.3VLAN Pin=U1-1
+Added Pin To Net: NetName=LED2 Pin=U1-2
+Added Pin To Net: NetName=LED1 Pin=U1-3
+Added Pin To Net: NetName=NetC8_2 Pin=U1-4
+Added Pin To Net: NetName=NetC9_2 Pin=U1-5
+Added Pin To Net: NetName=NetC4_2 Pin=U1-6
+Added Pin To Net: NetName=NetR6_2 Pin=U1-7
+Added Pin To Net: NetName=NetR5_2 Pin=U1-8
+Added Pin To Net: NetName=3.3V Pin=U1-9
+Added Pin To Net: NetName=RXER Pin=U1-10
+Added Pin To Net: NetName=NetR8_2 Pin=U1-11
+Added Pin To Net: NetName=MDIO Pin=U1-12
+Added Pin To Net: NetName=MDC Pin=U1-13
+Added Pin To Net: NetName=nINT/REFCLKO Pin=U1-14
+Added Pin To Net: NetName=nRST Pin=U1-15
+Added Pin To Net: NetName=TX_EN Pin=U1-16
+Added Pin To Net: NetName=TXD0 Pin=U1-17
+Added Pin To Net: NetName=TXD1 Pin=U1-18
+Added Pin To Net: NetName=3.3VLAN Pin=U1-19
+Added Pin To Net: NetName=TD_N Pin=U1-20
+Added Pin To Net: NetName=TD_P Pin=U1-21
+Added Pin To Net: NetName=RD_N Pin=U1-22
+Added Pin To Net: NetName=RD_P Pin=U1-23
+Added Pin To Net: NetName=NetR16_2 Pin=U1-24
+Added Member To Class: ClassName=microGate Member=Component U1 LAN8720
+Added Room: Name=microGate

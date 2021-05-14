@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\MicrozerrHard2\Desktop\Microzerr Fatih\ESP32 Altium_projeler\microgate__2\microGate.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=microgate-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=microgate-slotholes.txt|DrillLayers=gtl,gbl

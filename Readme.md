@@ -8,7 +8,7 @@ Kart bu haliyle çalışmamaktadır.
 ### Proje hakkında
 Kartın çizimi henüz ilk defa altium kullanan ve ilk defa proje geliştiren Fatih Furkan tarafından gerçekleştirilmiştir.
 Bu doğrultuda pcb tasarımında hatalar olması çok doğaldır.
-Kartın kodu ve revize halleri şirket gizliliği dolayısıyla paylaşılmamaktadır.
+Kartın özelleştirilmiş haldeki kodu ve PCB'nin çalışır hale getirilmiş revize halleri şirket gizliliği dolayısıyla paylaşılmamaktadır.
 
 
 [![](https://github.com/fatihfurkanersoy/MicroGate_ETH-ESP32/blob/main/Photo/PCB-ON.PNG)](https://github.com/fatihfurkanersoy/MicroGate_ETH-ESP32/tree/main/MicroGate-Altium "PCB")
